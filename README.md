@@ -1,2 +1,2 @@
 # DAP-Project
-perfoming EDA on olympic dataset
+Performing EDA on olympic dataset

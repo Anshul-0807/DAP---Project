@@ -1,6 +1,6 @@
 # DAP-Project
 Performing EDA on Olympic dataset
+:-- A streamlit app to analyze your oumpic datasets
 
-performing EDA on whats app chat dataset
 
-:-- A streamlit app to analyze your whatsapp chats
+
